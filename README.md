@@ -23,7 +23,7 @@ This project uses LangChain to integrate a language model, which retrieves and g
 
 ### System Architecture
 
-![System Architecture](https://drive.google.com/uc?export=view&id=1pLQuhLXR3mdFRv0B12wekW4s3TIkZfvz)
+![System Architecture](https://drive.google.com/uc?export=view&id=1C6azciutSCauX8jjSGyj0FV6IHd7GN-0)
 
 The architecture is structured as follows:
 1. **Ingestion**: The PDFs are ingested and split into smaller chunks to facilitate retrieval.
